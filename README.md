@@ -10,7 +10,7 @@
 
 My name is Alex and I am a Senior Software Engineer at [Talon.one](https://github.com/talon-one/) 🚀
 
-I love Golang and Neovim! <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/>
+Golang 💙 Neovim <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/> 💙 Nixos 💙
 
 ---
 
