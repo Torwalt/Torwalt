@@ -44,8 +44,11 @@ Golang 💙 Neovim <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"
 
 ## Projects
 
-### [Gosanta](https://github.com/Torwalt/gosanta)
+### [gosanta](https://github.com/Torwalt/gosanta)
 A small golang service to explore hexagonal design patterns & DDD in Golang.
+
+### [gosrcobfsc](https://github.com/Torwalt/gosrcobfsc)
+A fun project to obfuscate user defined symbols in golang repos.
 
 ---
 
