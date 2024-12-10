@@ -1,18 +1,8 @@
 # Hi there 👋
 
-<div align="center">
-  <img src="./banner.webp" alt="Banner" style="width: 100%; height: auto;"/>
-</div>
-
----
-
-## About Me
-
 My name is Alex and I am a Senior Software Engineer at [Talon.one](https://github.com/talon-one/) 🚀
 
 I love Golang and Neovim! <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/>
-
----
 
 ## Technologies I Enjoy
 
@@ -34,19 +24,21 @@ I love Golang and Neovim! <img src="./gopher-vim.svg" alt="Gopher Vim Hero" heig
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Nixos](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexander-dadiani-759023150/)
 
----
-
 ## Projects
 
-### [Gosanta](https://github.com/Torwalt/gosanta)
+### [gosanta](https://github.com/Torwalt/gosanta)
 A small golang service to explore hexagonal design patterns & DDD in Golang.
 
----
+### [gosrcobfsc](https://github.com/Torwalt/gosrcobfsc)
+A fun project to obfuscate user defined symbols in golang repos.
 
-Thanks for visiting! Have a great day! 🤓
+### [nixos-conf](https://github.com/Torwalt/nix-config)
+My nixos config.
+
+### [rusty-bittorrent](https://github.com/Torwalt/rusty-bittorrent-client)
+A codecrafters project I am working on in Rust.
+
