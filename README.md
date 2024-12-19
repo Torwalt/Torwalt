@@ -37,9 +37,9 @@ A small golang service to explore hexagonal design patterns & DDD in Golang.
 ### [gosrcobfsc](https://github.com/Torwalt/gosrcobfsc)
 A fun project to obfuscate user defined symbols in golang repos.
 
+### [rusty-bittorrent](https://github.com/Torwalt/rusty-bittorrent-client)
+An incomplete bittorrent implementation in Rust as per the codecrafters challenge.
+
 ### [nixos-conf](https://github.com/Torwalt/nix-config)
 My nixos config.
-
-### [rusty-bittorrent](https://github.com/Torwalt/rusty-bittorrent-client)
-A codecrafters project I am working on in Rust.
 
