@@ -2,7 +2,8 @@
 
 My name is Alex and I am a Senior Software Engineer at [Talon.one](https://github.com/talon-one/) 🚀
 
-I love Golang and Neovim! <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/>
+I love Golang, Neovim <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/>
+and I am starting to love Rust <img src="./crabby.png" alt="Rust maskot" height="40"/>
 
 ## Technologies I Enjoy
 
