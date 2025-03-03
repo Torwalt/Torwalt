@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alex and I am a Senior Software Engineer at [Talon.one](https://github.com/talon-one/) 🚀
+My name is Alex and I am a Senior Software Engineer at [Scoretech.ai](https://github.com/scoretechnologies) 🚀
 
 I love Golang, Neovim <img src="./gopher-vim.svg" alt="Gopher Vim Hero" height="40"/>
 and I am starting to love Rust <img src="./crabby.png" alt="Rust maskot" height="40"/>
